@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3A968006-C895-4C3A-BC24-9AC9C574EE04</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Veritours4</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>44C387EA-6697-4F4D-B504-05285A7952A9</key>
+		<string>https://github.com/satolyte/veritours.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Veritours4.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>44C387EA-6697-4F4D-B504-05285A7952A9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/satolyte/veritours.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>44C387EA-6697-4F4D-B504-05285A7952A9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>44C387EA-6697-4F4D-B504-05285A7952A9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>veritours</string>
+		</dict>
+	</array>
+</dict>
+</plist>
